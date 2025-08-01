@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2025 MABIALA EULOGE JUNIOR
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+**BruteForce Tool - Application de Test de Sécurité**
+
+Développé par : MABIALA EULOGE JUNIOR
+Date de création : 2025
+Version : 1.0.0
+
+**AVERTISSEMENT IMPORTANT :**
+Ce logiciel est destiné uniquement à des fins éducatives et de test de sécurité autorisé.
+L'utilisation non autorisée contre des systèmes tiers est illégale et contraire à l'éthique.
+
+**Fonctionnalités développées par MABIALA EULOGE JUNIOR :**
+- Attaques basées sur des règles personnalisables
+- Craquage de hash avec support GPU (Hashcat)
+- Gestion complète des dictionnaires
+- Interface utilisateur moderne React
+- API REST Flask pour le backend
+- Moteur de brute force optimisé
+
+**Contact :** MABIALA EULOGE JUNIOR
+**Expertise :** Développement Full-Stack & Sécurité Informatique 
